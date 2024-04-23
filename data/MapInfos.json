@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Globe","order":1,"parentId":0,"scrollX":6249.599999999999,"scrollY":3614.3999999999996,"quick":false},
+{"id":2,"expanded":false,"name":"Demon Castle","order":2,"parentId":1,"scrollX":6249.599999999999,"scrollY":3614.3999999999996,"quick":false},
+{"id":3,"expanded":false,"name":"Maze","order":3,"parentId":2,"scrollX":6326.4,"scrollY":8116.799999999999,"quick":false},
+{"id":4,"expanded":true,"name":"Globe 2","order":4,"parentId":0,"scrollX":6249.599999999999,"scrollY":3806.3999999999996,"quick":false},
+{"id":5,"expanded":true,"name":"Globe 2 2 wall","order":5,"parentId":4,"scrollX":6249.599999999999,"scrollY":8673.6,"quick":false},
+{"id":6,"expanded":true,"name":"East Hemisphere 1 a","order":7,"parentId":4,"scrollX":6249.599999999999,"scrollY":6360,"quick":false},
+{"id":7,"expanded":false,"name":"North Pole","order":9,"parentId":10,"scrollX":6249.599999999999,"scrollY":6139.2,"quick":false},
+{"id":8,"expanded":true,"name":"Globe 2 south","order":6,"parentId":4,"scrollX":6249.599999999999,"scrollY":6398.4,"quick":false},
+{"id":9,"expanded":true,"name":"South Pole","order":10,"parentId":10,"scrollX":6249.599999999999,"scrollY":6081.599999999999,"quick":false},
+{"id":10,"expanded":true,"name":"East Hemisphere 1","order":8,"parentId":0,"scrollX":6326.4,"scrollY":5967.599999999999,"quick":false},
+{"id":11,"expanded":true,"name":"East Hemisphere 2 a","order":11,"parentId":10,"scrollX":11251.199999999999,"scrollY":6292.799999999999,"quick":false}
+]

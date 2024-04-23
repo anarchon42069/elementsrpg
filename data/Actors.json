@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"tairyBattlerSV","characterIndex":0,"characterName":"tairyWalk","classId":1,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Tairy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tairy Greene","nickname":"Tairy","note":"","profile":""},
+{"id":2,"battlerName":"dragonfight","characterIndex":0,"characterName":"dragonwalk","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"dragonman","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dragon","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"guyfight","characterIndex":0,"characterName":"guy","classId":8,"equips":[0,0,0,0,0,0],"faceIndex":1,"faceName":"the boys","traits":[],"initialLevel":99,"maxLevel":99,"name":"M","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"egherg","characterIndex":0,"characterName":"gdsfgdsg","classId":4,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"sdg","traits":[],"initialLevel":1,"maxLevel":99,"name":"Xian","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"asdfasdfasdfasdf","characterIndex":0,"characterName":"asdfasdf","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"asdfasdfa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jaesahn","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"tnyhjyhmthnrgfbdfv","characterIndex":0,"characterName":"ghkkk","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"hgkhkjg","traits":[],"initialLevel":1,"maxLevel":99,"name":"Quincey","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"zsvzsf","characterIndex":1,"characterName":"guy","classId":7,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"the boys","traits":[],"initialLevel":1,"maxLevel":99,"name":"Man in black","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":3,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eiyjes","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
