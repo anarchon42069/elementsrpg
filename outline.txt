@@ -1,0 +1,53 @@
+a. Demo primary mechanics
+b. Demo maps, encounters
+c. Plot outline, character focus
+d. World building, items, abilities
+e. Traits, balancing
+f. Assembling, writing, scene building
+g. Alpha, testing, debug
+h. Reworks, finalize writing
+i. Asset work, public testing, distribution
+h. Legal, Community, Credits, Steam
+j. Social media, feedback, fixes
+???.
+>Profit!
+
+=============================================
+Mechanics
+=============================================
+
+a. No random encounters -- every encounter is scripted
+b. Full heal after every encounter -- go all out every time
+c. Skill checks for interactions -- saving throws too
+d. Dynamic Party -- characters have arcs, come and  go, die or betray you
+e. Walk-by dialog callout windows -- save time talking to randos -- YANFLY GABBER
+
+Encourage planning and risky play, discourage brute force tactics
+
+=============================================
+Maps
+=============================================
+
+0. 6 "Globe-Cube" maps
+
+a. large overworld maze
+b. hub that grows
+c. a demo dungeon
+d. test rooms
+
+=============================================
+Story
+=============================================
+
+a. protag - silent or speaking? customizable or written out? what archetypes?
+b. warring elemental lords - fire, water, earth, and wind
+c. antag - lord of ether resisting his death
+
+=============================================
+Work Flow
+=============================================
+
+1. Write basic plugin boogeraids
+2. Finish Globe Maps
+3. Data entry, character / world building
+4. Demo scene, demo encounters, rough draft story outline
