@@ -10,7 +10,7 @@
  * 
  * Plugin Commands: None
  * 
- * Version: 1.7 (Improved face graphic targeting and fallback animation handling)
+ * Version: 1.9 (Enhanced debugging and logging)
  */
 
 (() => {
@@ -27,6 +27,9 @@
         // Get the action's animation ID from the item or skill database.
         let animationId = this._action.item().animationId;
 
+        // Log the animation ID we're trying to use
+        console.log("Animation ID for current action: " + animationId);
+
         // If no valid animation ID is found, use a default fallback animation.
         if (!animationId || !$dataAnimations[animationId]) {
             console.warn("No valid animation ID found for this action. Using default 'Death' animation.");
@@ -41,8 +44,10 @@
     function displayAnimationOnTarget(subject, target, animationId) {
         // Check if the target is an actor (player character) or enemy.
         if (target.isActor()) {
+            console.log("Displaying animation on actor's face: " + target.name());
             displayAnimationOnFace(target, animationId);
         } else if (target.isEnemy()) {
+            console.log("Displaying animation on enemy: " + target.name());
             displayAnimationOnEnemy(target, animationId);
         }
     }
@@ -53,25 +58,29 @@
         const faceName = target.faceName();
         const faceIndex = target.faceIndex();
 
+        // Log the face graphic we're targeting.
+        console.log("Targeting face graphic: " + faceName + " with index: " + faceIndex);
+
         // Ensure the target is valid and has a face graphic.
         if (faceName && animationId && $dataAnimations[animationId]) {
-            // Validate that animation data exists before trying to set up the animation.
             const animationData = $dataAnimations[animationId];
             if (animationData && animationData.frames && animationData.timings) {
+                console.log("Valid animation data found for ID: " + animationId);
+                
                 // Create a new sprite for the animation.
                 const sprite = new Sprite_Animation();
-                sprite.setup(animationData, false, 0, 0); // Use the dynamic animation ID
-                
-                // Get the face sprite for the actor in the battle status window.
+                sprite.setup(animationData, false, 0, 0); 
+
+                // Get the face sprite from the battle status window.
                 const faceSprite = getFaceSprite(target);
-                
+
                 // Ensure faceSprite is valid before proceeding.
                 if (faceSprite) {
                     faceSprite.addChild(sprite);
                     
-                    // Play the animation centered on the face graphic.
-                    sprite.x = faceSprite.width / 2;  // Center on face sprite's X axis
-                    sprite.y = faceSprite.height / 2;  // Center on face sprite's Y axis
+                    // Center the animation on the face graphic.
+                    sprite.x = faceSprite.width / 2;
+                    sprite.y = faceSprite.height / 2;
                     sprite.start();
 
                     // Remove the animation once it's done.
@@ -94,25 +103,17 @@
 
     // Function to display animation on the enemy's battler graphic.
     function displayAnimationOnEnemy(target, animationId) {
-        // Get the enemy sprite from the battle scene.
         const enemySprite = getEnemySprite(target);
         
         // Ensure enemySprite exists before attempting to add an animation.
         if (enemySprite && $dataAnimations[animationId]) {
-            // Validate that animation data exists before trying to set up the animation.
             const animationData = $dataAnimations[animationId];
             if (animationData && animationData.frames && animationData.timings) {
-                // Create a new sprite for the animation.
                 const sprite = new Sprite_Animation();
-                sprite.setup(animationData, false, 0, 0); // Use the dynamic animation ID
-                
-                // Add the animation sprite to the enemy battler's sprite.
+                sprite.setup(animationData, false, 0, 0);
                 enemySprite.addChild(sprite);
-                
-                // Play the animation over the enemy.
                 sprite.start();
 
-                // Remove the animation once it's done.
                 sprite.update = function() {
                     Sprite_Animation.prototype.update.call(this);
                     if (this._finished) {
@@ -129,18 +130,16 @@
 
     // Function to get the face sprite of the target actor.
     function getFaceSprite(target) {
-        // Assuming BattleStatusWindow holds the face graphics in battle.
         const statusWindow = SceneManager._scene._statusWindow;
         if (statusWindow && statusWindow._faceSprites) {
             const actorIndex = $gameParty.members().indexOf(target);
-            return statusWindow._faceSprites[actorIndex]; // Assuming faceSprites holds the actors' face sprites.
+            return statusWindow._faceSprites[actorIndex];
         }
         return null;
     }
 
     // Function to get the sprite of the target enemy.
     function getEnemySprite(target) {
-        // Assuming enemies are displayed in the current battle scene.
         const spriteset = SceneManager._scene._spriteset;
         if (spriteset && spriteset._enemySprites) {
             const enemySprites = spriteset._enemySprites;
