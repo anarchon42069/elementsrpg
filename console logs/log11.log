@@ -1,0 +1,1813 @@
+DevTools failed to load SourceMap: Could not load content for chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/libs/pixi.js.map: System error: net::ERR_FILE_NOT_FOUND
+MoreBattleAnimations.js:44 Displaying animation on actor: Tairy Greene
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:83 Retrying to find face sprite... Attempt: 1
+displayAnimationOnFace @ MoreBattleAnimations.js:83
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:83 Retrying to find face sprite... Attempt: 2
+displayAnimationOnFace @ MoreBattleAnimations.js:83
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:83 Retrying to find face sprite... Attempt: 3
+displayAnimationOnFace @ MoreBattleAnimations.js:83
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:83 Retrying to find face sprite... Attempt: 4
+displayAnimationOnFace @ MoreBattleAnimations.js:83
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:83 Retrying to find face sprite... Attempt: 5
+displayAnimationOnFace @ MoreBattleAnimations.js:83
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:34 No valid animation ID found. Using default (Death) animation.
+BattleManager.invokeAction @ MoreBattleAnimations.js:34
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:44 Displaying animation on actor: Tairy Greene
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:89 Exceeded maximum retries for finding face sprite.
+displayAnimationOnFace @ MoreBattleAnimations.js:89
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:135 Status window or face sprites not found.
+getFaceSprite @ MoreBattleAnimations.js:135
+displayAnimationOnFace @ MoreBattleAnimations.js:54
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:79 Missing face sprite or animation data for actor: Tairy Greene
+displayAnimationOnFace @ MoreBattleAnimations.js:79
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+MoreBattleAnimations.js:89 Exceeded maximum retries for finding face sprite.
+displayAnimationOnFace @ MoreBattleAnimations.js:89
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+(anonymous) @ MoreBattleAnimations.js:86
+setTimeout (async)
+displayAnimationOnFace @ MoreBattleAnimations.js:85
+displayAnimationOnTarget @ MoreBattleAnimations.js:45
+BattleManager.invokeAction @ MoreBattleAnimations.js:38
+BattleManager.updateAction @ rmmz_managers.js:2758
+BattleManager.updatePhase @ rmmz_managers.js:2358
+BattleManager.update @ rmmz_managers.js:2342
+Scene_Battle.updateBattleProcess @ rmmz_scenes.js:3090
+Scene_Battle.update @ rmmz_scenes.js:3077
+SceneManager.updateScene @ rmmz_managers.js:2103
+SceneManager.updateMain @ rmmz_managers.js:2063
+SceneManager.update @ rmmz_managers.js:1942
+Graphics._onTick @ rmmz_core.js:811
+TickerListener.emit @ pixi.js:9093
+Ticker.update @ pixi.js:9548
+Ticker._tick @ pixi.js:9298
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
+requestAnimationFrame (async)
+Ticker._tick @ pixi.js:9301
