@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "elements",
-        "width": 1080,
-        "height": 720,
+        "width": 1920,
+        "height": 1080,
         "position": "center",
         "icon": "icon/icon.png"
     }

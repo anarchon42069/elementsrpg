@@ -1,0 +1,11 @@
+map randomizer:
+
+upon game start, teleport to random starting point
+with every scene change, teleport to a random entrance on a random map, but remember that connection
+shuffles all teleports, but locks them in with each save game file.
+
+table 1:
+Map List Table
+this is the starting list of map IDs stored as a series of variables (1 to n; "variable_0001: MapListTable_Slot_01 =[0001], variable_000n: MapListTable_Slot_n = [n]", etc.)
+
+1st teleport function:
